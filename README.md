@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kavithats235
+- 👋 Hi, I’m Kavitha T S
 - 👀 I’m interested in exploring much in technology
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Angular and Python related work
